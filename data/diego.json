@@ -1,0 +1,22 @@
+{
+    "name": {
+        "firstName": "Paulo Diego",
+        "lastName": "Cassiano Neves",
+        "presentaionName": "Diego Neves",
+        "title": "Gestor de TI"
+    },
+    "contatcts": {
+        "tel": "82996207887",
+        "mail":"diego.neves@outlook.com.br",
+        "cep": "57063505",
+        "address": "Av. Walfrido Gerônimo da Rocha, 8",
+        "district": "Santa Amélia",
+        "city": "Maceió",
+        "state": "Alagoas",
+        "uf": "AL"
+    },
+    "profile": {
+        "objective": "Vaga para programador Front End.",
+        "about": "Mais de 15 anos de experiência no setor de TI. Experiência em trabalho em equipe tanto como lider, quanto como subordinado. Vasta experiência em instalação, configuração e manutenção de redes, servidores e estações de trabalho."
+    }
+}
